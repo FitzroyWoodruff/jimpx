@@ -1,0 +1,2 @@
+# jimpx
+Experimentation with Jimp 
