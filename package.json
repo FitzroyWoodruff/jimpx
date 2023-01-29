@@ -1,0 +1,23 @@
+{
+  "name": "jimpx",
+  "version": "1.0.0",
+  "description": "Experimentation with Jimp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FitzroyWoodruff/jimpx.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FitzroyWoodruff/jimpx/issues"
+  },
+  "homepage": "https://github.com/FitzroyWoodruff/jimpx#readme",
+  "dependencies": {
+    "jimp": "^0.16.2"
+  }
+}
